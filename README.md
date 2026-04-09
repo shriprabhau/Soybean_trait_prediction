@@ -3,7 +3,7 @@
 Three traits of soybean with varying heritability are chosen as targets to evaluate the performance of different machine learning models using dimensionality reduction methods. 
 
 Each trait folder contains all the scripts used to run the Machine learning and deep learning models for that trait.
-The Rscript folder contains scripts for PCA and heritability calculation.
+The Rscript folder contains scripts for PCA, BLUP and heritability calculation.
 
 Package versions:
 
